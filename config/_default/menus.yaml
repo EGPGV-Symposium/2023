@@ -5,23 +5,29 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#egpgv'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Program
+    url: 'program/'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Call For Papers
+    url: 'cfp/'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Committee
+    url: 'committee/'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Submission
+    url: 'submission/'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: FAQ
+    url: 'faq/'
     weight: 60
+  - name: Legal Notice
+    url: 'legal/'
+    weight: 70
+  - name: Timeline
+    url: '#timeline'
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

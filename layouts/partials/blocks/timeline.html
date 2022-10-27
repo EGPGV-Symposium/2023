@@ -1,0 +1,30 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.Params.design.columns | default "2" }}
+
+<div class="row">
+<div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+    <h1 class="mb-0">{{ $block.Title }}</h1>
+    <h4 class="mb-0">{{$block.Params.Subtitle}}</h4>
+</div>
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+{{ if $block.Params.item }}
+{{ range $idx, $key := sort $block.Params.item ".weight" "asc" }}
+  <div class="card experience course">
+    <div class="card-body">
+        <h2 class="mb-3 timeline_item">{{ .title  }}</h2>
+        {{ if .item }}
+        {{ range $idx, $key := sort .item  ".date_start" "asc" }}
+        <div class="card experience course">
+            <div class="card-body">
+              {{ (time .date_start) | time.Format ($block.Params.date_format | default "Jan 2006") }} {{.title}}
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+  </div>
+{{ end }}
+{{ end }}
+</div>
+</div>
