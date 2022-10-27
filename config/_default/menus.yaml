@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#egpgv'
-    weight: 10
   - name: Program
     url: 'program/'
     weight: 20

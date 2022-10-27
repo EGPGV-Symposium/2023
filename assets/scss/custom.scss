@@ -1,3 +1,33 @@
 .timeline_item {
-    text-decoration: underline solid #FAFF00;   
+    text-decoration: underline solid #FFEF1D;
+    text-decoration-thickness: 15%;
+}
+
+.cfp_bg {
+    background: #FFEF1D;
+}
+
+.cfp_text {
+    color: black;
+}
+
+.cfp_btn {
+    color: #000;
+    border-color: #fff;
+    background-color: #FFEF1D; }
+    .cfp_btn:hover {
+      color: #000;
+      background-color: #fff;
+      border-color: #fff; }
+    .cfp_btn:focus, .cfp_btn.focus {
+      box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); }
+    .cfp_btn.disabled, .cfp_btn:disabled {
+      color: #1565c0;
+      background-color: transparent; }
+    .cfp_btn:not(:disabled):not(.disabled):active, .cfp_btn:not(:disabled):not(.disabled).active, .show > .cfp_btn.dropdown-toggle {
+      color: #fff;
+      background-color: #1565c0;
+      border-color: #1565c0; }
+      .cfp_btn:not(:disabled):not(.disabled):active:focus, .cfp_btn:not(:disabled):not(.disabled).active:focus, .show > .cfp_btn.dropdown-toggle:focus {
+        box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); 
 }

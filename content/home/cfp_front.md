@@ -1,5 +1,5 @@
 ---
-widget: features
+widget: cfp_front
 headless: true
 
 title: Call for Papers
@@ -11,7 +11,15 @@ feature:
   - name: Parallel Visualization and Analytics
   - name: Processing of Large Data Sets for Visualization or Analytics
 ---
-{{ .Content }}
-{{< cta cta_text="Know More" cta_link="./cfp/" cta_new_tab="false" >}}
+
 <div class="mb-3"></div>
+<a class="btn-block btn cfp_btn section-subheading" href="./cfp/">
+<div class="mb-1"></div>
+<div class="cfp_text">
+Know More
+</div>
+<div class="mb-1"></div>
+</a>
+<div class="mb-3"></div>
+
 
