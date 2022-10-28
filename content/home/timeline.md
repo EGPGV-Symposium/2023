@@ -21,7 +21,7 @@ item:
         date_start: '2023-01-24'
       - title: Camera Ready Version Due
         date_start: '2023-02-07'
-  - title: Regular submission deadline
+  - title: Regular Submission Deadline
     weigth: 2
     item:
       - title: Abstract Deadline

@@ -8,18 +8,20 @@
     <h4 class="mb-0">{{$block.Params.Subtitle}}</h4>
 </div>
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
-{{ if $block.Params.item }}
-{{ range $idx, $key := sort $block.Params.item ".weight" "asc" }}
+{{ if $block.Params.organizers }}
+<div class="h2 mb-3 timeline_item">Symposium Organizers</div>
+{{ if $block.Params.organizers.item }}
+{{ range $idx, $key := sort $block.Params.organizers.item ".weight" "asc" }}
   <div class="card experience course">
     <div class="card-body">
         <h2 class="mb-3 timeline_item">{{ .title  }}</h2>
         {{ if .item }}
-        {{ range $idx, $key := sort .item  ".date_start" "asc" }}
+        {{ range $idx, $key := sort .item  ".weight" "asc" }}
         <div class="card experience course">
             <div class="card-body">
                 <div class="com_row">
-                    <div class="com_col com_left">{{ (time .date_start) | time.Format ($block.Params.date_format | default "Jan 2006") }}</div>
-                    <div class="com_col com_right">{{.title}}</div>
+                    <div class="com_col com_left">{{.title}}</div>
+                    <div class="com_col com_right com_affil">{{.affiliation}}</div>
                 </div>
             </div>
         </div>
@@ -27,6 +29,7 @@
         {{ end }}
     </div>
   </div>
+{{ end }}
 {{ end }}
 {{ end }}
 </div>
