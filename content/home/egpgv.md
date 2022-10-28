@@ -16,7 +16,7 @@ design:
 #   css_class: fullscreen
 ---
 
-Leipzig, Germany
+Leipzig, Germany, 2023-06-12
 
 EGPGV 2023 is co-located with EuroVis 2023.
 Please find information on the venue, accommodation, and registration on
