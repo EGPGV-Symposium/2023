@@ -14,6 +14,7 @@
 .cfp_btn {
     color: #000;
     border-color: #fff;
+    border-width: medium;
     background-color: #FFEF1D; }
     .cfp_btn:hover {
       color: #000;
@@ -22,13 +23,36 @@
     .cfp_btn:focus, .cfp_btn.focus {
       box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); }
     .cfp_btn.disabled, .cfp_btn:disabled {
-      color: #1565c0;
+      color: #000;
       background-color: transparent; }
     .cfp_btn:not(:disabled):not(.disabled):active, .cfp_btn:not(:disabled):not(.disabled).active, .show > .cfp_btn.dropdown-toggle {
       color: #fff;
       background-color: #1565c0;
       border-color: #1565c0; }
       .cfp_btn:not(:disabled):not(.disabled):active:focus, .cfp_btn:not(:disabled):not(.disabled).active:focus, .show > .cfp_btn.dropdown-toggle:focus {
+        box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); 
+}
+
+.hero_btn {
+    color: #000;
+    font-size: 1.35rem;
+    border-color: #fff;
+    border-width: medium;
+    background-color: #fff01d00; }
+    .hero_btn:hover {
+      color: #000;
+      background-color: #fff;
+      border-color: #fff; }
+    .hero_btn:focus, .hero_btn.focus {
+      box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); }
+    .hero_btn.disabled, .hero_btn:disabled {
+      color: #000;
+      background-color: transparent; }
+    .hero_btn:not(:disabled):not(.disabled):active, .hero_btn:not(:disabled):not(.disabled).active, .show > .hero_btn.dropdown-toggle {
+      color: #fff;
+      background-color: #1565c0;
+      border-color: #1565c0; }
+      .hero_btn:not(:disabled):not(.disabled):active:focus, .hero_btn:not(:disabled):not(.disabled).active:focus, .show > .hero_btn.dropdown-toggle:focus {
         box-shadow: 0 0 0 0.2rem rgba(21, 101, 192, 0.5); 
 }
 
