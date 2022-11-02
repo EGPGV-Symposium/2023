@@ -36,10 +36,10 @@ Typical symposium topics include:
 
 In general, appropriate topics for the symposium fall into one of four categories:
 
-(1) parallel graphics,
-(2) rendering of very large data sets,
-(3) parallel visualization and analytics, and
-(4) processing of large data sets for visualization or analytics.
+(1) parallel graphics,  
+(2) rendering of very large data sets,  
+(3) parallel visualization and analytics, and  
+(4) processing of large data sets for visualization or analytics.  
 
 For additional information regarding paper submission and publication, please contact the program chairs.
 
@@ -47,16 +47,16 @@ EGPGV again calls for Full Papers (8 to 10 pages) and Short Papers (up to 4 page
 
 Important Dates:
 
-December 9, 2022 - Early Submission Abstract Deadline
-December 16, 2022 - Early Submission Paper Deadline
-January 24, 2023 - Early Submission Notification
-February 24, 2023 - Regular Submission Abstract Deadline
-March 3, 2023 - Regular Submission Deadline
+December 9, 2022 - Early Submission Abstract Deadline  
+December 16, 2022 - Early Submission Paper Deadline  
+January 24, 2023 - Early Submission Notification  
+February 24, 2023 - Regular Submission Abstract Deadline  
+March 3, 2023 - Regular Submission Deadline  
 
 For additional information, please contact us via papers@egpgv.org.
 
 EGPGV Leadership:
 
-Symposium Chair: Roxana Bujack, Los Alamos National Laboratory, USA
-Program Co-Chair: David Pugmire, Oak Ridge National Laboratory, USA
-Program Co-Chair: Guido Reina, University of Stuttgart, Germany
+Symposium Chair: Roxana Bujack, Los Alamos National Laboratory, USA  
+Program Co-Chair: David Pugmire, Oak Ridge National Laboratory, USA  
+Program Co-Chair: Guido Reina, University of Stuttgart, Germany  
