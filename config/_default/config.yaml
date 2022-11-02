@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: EGPGV 2023 # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://egpgv-symposium.github.io/2023/' # Website URL
 
 ############################
 ## LANGUAGE

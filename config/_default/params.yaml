@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  # theme_night: minimal
   font: Default
   font_size: M
 
@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Project
     local_business_type: ''
-    org_name: ''
+    org_name: 'EGPGV'
     description: "EGPGV'23 -- held in conjunction with EuroVis 2023"
     twitter: ''
   analytics:
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
