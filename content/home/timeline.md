@@ -19,8 +19,8 @@ item:
         date_start: '2022-12-16'
       - title: Notification of Acceptance
         date_start: '2023-01-24'
-      - title: Camera Ready Version Due
-        date_start: '2023-02-07'
+    #   - title: Camera Ready Version Due
+    #     date_start: '2023-02-07'
   - title: Regular Submission Deadline
     weigth: 2
     item:
@@ -32,6 +32,6 @@ item:
         date_start: '2023-03-03'
       - title: Notification of Acceptance
         date_start: '2023-04-05'
-      - title: Camera Ready Version Due
-        date_start: '2023-04-19'
+    #   - title: Camera Ready Version Due
+    #     date_start: '2023-04-19'
 ---
