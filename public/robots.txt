@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://egpgv-symposium.github.io/2023/sitemap.xml
