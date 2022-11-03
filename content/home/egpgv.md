@@ -4,9 +4,9 @@ headless: true
 weight: 10
 title: WELCOME TO EGPGV 2023
 hero_media:
-cta:
-  label: EuroVis Webpage
-  url: https://www.eurovis.org/
+# cta:
+#   label: EuroVis Webpage
+#   url: https://www.eurovis.org/
 button:
   label: EuroVis Webpage
   url: https://www.eurovis.org/
