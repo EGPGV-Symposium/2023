@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Program
-    url: 'program/'
-    weight: 20
+  # - name: Program
+  #   url: 'program/'
+  #   weight: 20
   - name: Call For Papers
     url: 'cfp/'
     weight: 30
