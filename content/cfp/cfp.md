@@ -11,7 +11,7 @@ EGPGV has two submission deadlines: early submission in December and regular sub
 
 EGPGV 2023 will take place on June 12, 2023, and be co-located with EuroVis 2023, held June 12-16, 2023, in Leipzig Germany.
 
-The proceedings of EGPGV will be published in the Eurographics Proceedings Series and in the Eurographics Digital Library. Best papers from the EGPGV symposium will be invited to submit an extended journal version to IEEE Transactions on Visualization and Computer Graphics.
+The proceedings of EGPGV will be published in the Eurographics Proceedings Series and in the Eurographics Digital Library.
 
 EGPGV seeks papers on graphics and visualization that involve any type of parallel computing, and/or focus on very large data sets. Papers on techniques, data structures, algorithms, systems, and applications are welcomed. Parallel computing is broadly defined, including high-performance computing and cloud environments, (multi-)GPU computing and heterogeneous, hybrid architectures, and shared and/or distributed memory architectures. Further, papers focused on processing very large data sets (either for visualization or graphics) are welcomed, even if they do not have a particular focus on parallelism.
 
@@ -43,7 +43,7 @@ In general, appropriate topics for the symposium fall into one of four categorie
 
 For additional information regarding paper submission and publication, please contact the program chairs.
 
-EGPGV again calls for Full Papers (8 to 10 pages) and Short Papers (up to 4 pages) in Eurographics format (+ 1 page of references). The EGPGV webpage will be updated soon with more details on submission.
+EGPGV again calls for Full Papers (8 to 10 pages) and Short Papers (up to 4 pages) in Eurographics format (+ 1 page of references). 
 
 Important Dates:
 
