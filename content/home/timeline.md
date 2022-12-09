@@ -13,10 +13,10 @@ item:
     item:
       - title: Abstract Deadline
         url: 'https://new.precisionconference.com'
-        date_start: '2022-12-09'
+        date_start: '2022-12-16'
         description: Submissions are handled via <a href="submit" taget="_blank">PCS</a>.
       - title: Paper Deadline
-        date_start: '2022-12-16'
+        date_start: '2022-12-23'
       - title: Notification of Acceptance
         date_start: '2023-01-24'
     #   - title: Camera Ready Version Due

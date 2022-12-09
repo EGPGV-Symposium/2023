@@ -47,8 +47,8 @@ EGPGV again calls for Full Papers (8 to 10 pages) and Short Papers (up to 4 page
 
 Important Dates:
 
-December 9, 2022 - Early Submission Abstract Deadline  
-December 16, 2022 - Early Submission Paper Deadline  
+December 16, 2022 - Early Submission Abstract Deadline (was December 9, 2022)  
+December 23, 2022 - Early Submission Paper Deadline (was December 16, 2022)  
 January 24, 2023 - Early Submission Notification  
 February 24, 2023 - Regular Submission Abstract Deadline  
 March 3, 2023 - Regular Submission Deadline  
